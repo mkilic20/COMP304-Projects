@@ -1,0 +1,3 @@
+[submodule "lîbmpg123"]
+	path = lîbmpg123
+	url = https://github.com/gypified/libmpg123.git
